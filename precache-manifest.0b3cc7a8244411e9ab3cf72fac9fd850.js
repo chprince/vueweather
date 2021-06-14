@@ -60,7 +60,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vueweather/img/pie-factory.a66743ad.svg"
   },
   {
-    "revision": "f81f74d62c251e44a8592ecafd347d1b",
+    "revision": "43460f763d05a8e2302c4aa070e99858",
     "url": "/vueweather/index.html"
   },
   {
