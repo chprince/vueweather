@@ -275,12 +275,13 @@ main {
 
   input[type="text"] {
     height: 40px;
-    font-size: 12px;
+    font-size: 16px;
     border-radius: 20px;
     border: none;
     display: block;
     width: 100%;
     padding: 5px 15px;
+    font-family: "Rubik", sans-serif;
 
     &:focus {
       outline: none;
@@ -288,6 +289,7 @@ main {
 
     &::placeholder {
       font-size: 12px;
+      font-family: "Rubik", sans-serif;
     }
   }
 
