@@ -1,7 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd2291c69999f3f6b401",
+    "revision": "4bc069875e524a0b5a910547d1ec3fdd",
+    "url": "/vueweather/android-chrome-192x192.png"
+  },
+  {
+    "revision": "da50ed40a3b1a4797e6f3ddf0ae042c4",
+    "url": "/vueweather/android-chrome-512x512.png"
+  },
+  {
+    "revision": "5e1932729958ce89fa151b1bbf1575ed",
+    "url": "/vueweather/apple-touch-icon.png"
+  },
+  {
+    "revision": "96d4bc6451ba81cd6c47",
     "url": "/vueweather/css/app.1b5de07f.css"
+  },
+  {
+    "revision": "625e3fb961170022e5202709a084e45f",
+    "url": "/vueweather/favicon-16x16.png"
+  },
+  {
+    "revision": "ef26674ec2807de582cdc37fc83a877e",
+    "url": "/vueweather/favicon-32x32.png"
   },
   {
     "revision": "6826dc96dff1e2049ca9894c74b1fe2b",
@@ -40,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vueweather/img/pie-factory.a66743ad.svg"
   },
   {
-    "revision": "32b084f7eb92d60b7d00d4d3bdcb2827",
+    "revision": "f81f74d62c251e44a8592ecafd347d1b",
     "url": "/vueweather/index.html"
   },
   {
-    "revision": "c70dbe6eedc7c7bb5977",
-    "url": "/vueweather/js/about.946636f3.js"
+    "revision": "61d95b1debcad43e26f5",
+    "url": "/vueweather/js/about.09dafec6.js"
   },
   {
-    "revision": "fd2291c69999f3f6b401",
-    "url": "/vueweather/js/app.9aefd7c7.js"
+    "revision": "96d4bc6451ba81cd6c47",
+    "url": "/vueweather/js/app.fcaa0d34.js"
   },
   {
     "revision": "534f119a7b0e33817e3f",
