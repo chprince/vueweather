@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db94eb81aa40b3ef4960",
-    "url": "/vueweather/css/app.2fd4df50.css"
+    "revision": "fd2291c69999f3f6b401",
+    "url": "/vueweather/css/app.1b5de07f.css"
   },
   {
     "revision": "6826dc96dff1e2049ca9894c74b1fe2b",
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vueweather/img/pie-factory.a66743ad.svg"
   },
   {
-    "revision": "f700d4d91d535fb9bbda9b0df6fc2766",
+    "revision": "32b084f7eb92d60b7d00d4d3bdcb2827",
     "url": "/vueweather/index.html"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vueweather/js/about.946636f3.js"
   },
   {
-    "revision": "db94eb81aa40b3ef4960",
-    "url": "/vueweather/js/app.6a08afc2.js"
+    "revision": "fd2291c69999f3f6b401",
+    "url": "/vueweather/js/app.9aefd7c7.js"
   },
   {
     "revision": "534f119a7b0e33817e3f",
